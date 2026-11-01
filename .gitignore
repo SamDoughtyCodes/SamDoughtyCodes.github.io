@@ -1,0 +1,2 @@
+# Ignore the file containing secret data
+Backend/constants.py

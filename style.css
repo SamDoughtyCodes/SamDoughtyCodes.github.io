@@ -1,0 +1,20 @@
+/* SET UP COLOUR PALLETTE */
+:root {
+    --dark-amethyst-black: #10002B;
+    --dark-amethyst: #240046;
+    --indigo-ink: #3C096C;
+    --indigo-velvet: #5A189A;
+    --royal-violet: #7b2cbf;
+    --lavender-purple: #9d4edd;
+    --mauve-magic: #c77dff;
+    --mauve: #e0aaff;
+}
+
+body {
+    background-color: var(--indigo-velvet);
+}
+
+.bg_1 {
+    /* background-color: var(--mauve); */
+    background-color: #ffffff;
+}
